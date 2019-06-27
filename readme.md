@@ -1,10 +1,1 @@
-Meu primeiro sistema no GIT
-
-novamente 
-
-git commit -am "Tem que ir de uma vez"
-
-nova alt
-
-
-agora vai
+Meu primeiro sistema no GITHUB
