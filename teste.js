@@ -1,3 +1,3 @@
 teste.js
 
-alterado local
+alterado local e remoto
