@@ -1,1 +1,1 @@
-<script>
+<script></scitp>
