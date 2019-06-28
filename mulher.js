@@ -1,1 +1,0 @@
-Nossas mulheres não irão participar do projeto
